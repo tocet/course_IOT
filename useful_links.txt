@@ -1,2 +1,3 @@
 https://randomnerdtutorials.com/
 https://docs.espdash.pro/cards/generic/
+https://arduinojson.org/v6/assistant/#/step1
